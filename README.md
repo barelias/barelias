@@ -2,7 +2,7 @@
 
 <h3>EngComp - UFSCar | São Paulo, BR :rocket:</h3>
 
-Sr SWE and Partner [@visio](https://www.visio.ai/)
+Sr. SWE and Partner [@visio](https://www.visio.ai/)
 
 <br>
 
